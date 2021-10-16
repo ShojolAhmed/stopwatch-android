@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="time_format">00:00.00</string>
+    <string name="hints">Tap anywhere to Start/Pause</string>
+    <string name="reset_button">▢</string>
+</resources>
